@@ -63,6 +63,7 @@ To overcome the "Black-Box" nature of the Neural Network, a hybrid deployment st
 
 ## 📁 Repository Contents
 *   `/reports`: Contains the full technical documentation (`SAS_Predictive_Analytics_Report.pdf`).
+*   `/sas_project`: Contains the exported `.spk` (SAS Package) file. To review the model flow, import this package directly into your SAS Enterprise Miner workspace.
 
 ---
 *Developed by An (Ashley) Tran.*
