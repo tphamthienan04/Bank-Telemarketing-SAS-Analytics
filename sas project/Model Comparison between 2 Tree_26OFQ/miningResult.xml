@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?><_ROOT_  WorkspaceName="EMWS4" UUID="ac780581-0f9e-446f-b98d-a81354e86258" EMVersion="14.1"
+ ScoreCodeType="Data Step" MiningFunction="Classification" MiningAlgorithm="DecisionTree"
+ MiningAlgorithmNode="Tree" NodeAlgorithm="ModelCompare" NodeId="MdlComp" NodeDescription="Model Comparison"
+ Time="14MAY2026:22:48:07" RawLastTimeRun="2094308036.2" LastTimeRun="13MAY2026:16:13:56"
+ Userid="22648859" DataSource="BANK_MARKETING" Library="ASS2" Table="BANK_MARKETING"
+ Segment="" SamplingRate="." UseExternalData="" NTarget="1" NSegment="2">
+<TARGETS >
+<TARGET  Variable="TargetBuy" Level="BINARY" Type="N" Format="BEST12.0" Order="DESC" NodeId="Tree"
+/>
+</TARGETS>
+<SEGMENTS >
+<SEGMENT  Variable="_NODE_" Level="NOMINAL" Type="N" Format="" Order="DESC" NodeId="Tree"/>
+<SEGMENT  Variable="b_TargetBuy" Level="NOMINAL" Type="N" Format="" Order="DESC" NodeId="MdlComp"
+/>
+</SEGMENTS>
+</_ROOT_>

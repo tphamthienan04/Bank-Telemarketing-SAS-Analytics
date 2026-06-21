@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?><_ROOT_  WorkspaceName="EMWS4" UUID="24bb0f59-9735-43c1-8b93-5c50cf9c5abb" EMVersion="14.1"
+ ScoreCodeType="Data Step" MiningFunction="Classification" MiningAlgorithm="NeuralNetwork"
+ MiningAlgorithmNode="Neural2" NodeAlgorithm="NeuralNetwork" NodeId="Neural2" NodeDescription="Neural Network 3 Hidden Units"
+ Time="14MAY2026:22:53:45" RawLastTimeRun="2094409292.3" LastTimeRun="14MAY2026:20:21:32"
+ Userid="22648859" DataSource="BANK_MARKETING" Library="ASS2" Table="BANK_MARKETING"
+ Segment="" SamplingRate="." UseExternalData="" NTarget="1" NSegment="0">
+<TARGETS >
+<TARGET  Variable="TargetBuy" Level="BINARY" Type="N" Format="BEST12.0" Order="DESC" NodeId="Neural2"
+/>
+</TARGETS>
+</_ROOT_>

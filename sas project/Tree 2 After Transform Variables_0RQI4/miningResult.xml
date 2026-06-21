@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?><_ROOT_  WorkspaceName="EMWS4" UUID="8d0d3ece-2712-491e-a8d6-0437c87fa5fd" EMVersion="14.1"
+ ScoreCodeType="Data Step" MiningFunction="Classification" MiningAlgorithm="DecisionTree"
+ MiningAlgorithmNode="Tree5" NodeAlgorithm="DecisionTree" NodeId="Tree5" NodeDescription="Tree 2"
+ Time="14MAY2026:22:57:08" RawLastTimeRun="2094336219.7" LastTimeRun="14MAY2026:00:03:40"
+ Userid="22648859" DataSource="BANK_MARKETING" Library="ASS2" Table="BANK_MARKETING"
+ Segment="" SamplingRate="." UseExternalData="" NTarget="1" NSegment="1">
+<TARGETS >
+<TARGET  Variable="TargetBuy" Level="BINARY" Type="N" Format="BEST12.0" Order="DESC" NodeId="Tree5"
+/>
+</TARGETS>
+<SEGMENTS >
+<SEGMENT  Variable="_NODE_" Level="NOMINAL" Type="N" Format="" Order="DESC" NodeId="Tree5"
+/>
+</SEGMENTS>
+</_ROOT_>

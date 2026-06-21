@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?><_ROOT_  WorkspaceName="EMWS4" UUID="5d36bbad-bf01-495d-b713-bd41dd518fb8" EMVersion="14.1"
+ ScoreCodeType="Data Step" MiningFunction="None" MiningAlgorithm="" MiningAlgorithmNode=""
+ NodeAlgorithm="StatExplore" NodeId="Stat" NodeDescription="StatExplore" Time="14MAY2026:22:41:12"
+ RawLastTimeRun="2093891168.3" LastTimeRun="08MAY2026:20:26:08" Userid="22648859"
+ DataSource="BANK_MARKETING" Library="ASS2" Table="BANK_MARKETING" Segment="" SamplingRate="."
+ UseExternalData="" NTarget="0" NSegment="0"/>

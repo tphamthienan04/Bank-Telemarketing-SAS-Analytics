@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?><_ROOT_  WorkspaceName="EMWS4" UUID="eddee5ad-99cc-4475-82b9-dd433fea9c8c" EMVersion="14.1"
+ ScoreCodeType="Data Step" MiningFunction="Classification" MiningAlgorithm="Regression"
+ MiningAlgorithmNode="Reg2" NodeAlgorithm="Regression" NodeId="Reg2" NodeDescription="Regression"
+ Time="14MAY2026:22:58:48" RawLastTimeRun="2094336250.8" LastTimeRun="14MAY2026:00:04:11"
+ Userid="22648859" DataSource="BANK_MARKETING" Library="ASS2" Table="BANK_MARKETING"
+ Segment="" SamplingRate="." UseExternalData="" NTarget="1" NSegment="0">
+<TARGETS >
+<TARGET  Variable="TargetBuy" Level="BINARY" Type="N" Format="BEST12.0" Order="DESC" NodeId="Reg2"
+/>
+</TARGETS>
+</_ROOT_>

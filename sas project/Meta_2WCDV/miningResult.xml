@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?><_ROOT_  WorkspaceName="EMWS4" UUID="fa961021-73cd-43bb-a17f-c3d68df48cbc" EMVersion="14.1"
+ ScoreCodeType="Data Step" MiningFunction="Transformation" MiningAlgorithm="Impute"
+ MiningAlgorithmNode="Impt" NodeAlgorithm="Metadata" NodeId="Meta" NodeDescription="Meta"
+ Time="14MAY2026:22:51:45" RawLastTimeRun="2094336124" LastTimeRun="14MAY2026:00:02:04"
+ Userid="22648859" DataSource="BANK_MARKETING" Library="ASS2" Table="BANK_MARKETING"
+ Segment="" SamplingRate="." UseExternalData="" NTarget="0" NSegment="0"/>
